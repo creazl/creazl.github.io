@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Creazl的个人博客</title><link>https://creazl.github.io</link><description>我是Creazl,分享好玩科技</description><copyright>Creazl的个人博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/175819506?u=1c1a289236143c1c8c05536c02f86e8f0c5ad4a3&amp;v=4</url><title>avatar</title><link>https://creazl.github.io</link></image><lastBuildDate>Mon, 07 Oct 2024 01:29:09 +0000</lastBuildDate><managingEditor>Creazl的个人博客</managingEditor><ttl>60</ttl><webMaster>Creazl的个人博客</webMaster><item><title>免费／低价搭建自己的网站</title><link>https://creazl.github.io/post/mian-fei-%EF%BC%8F-di-jia-da-jian-zi-ji-de-wang-zhan.html</link><description># 购买域名&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Creazl的个人博客</title><link>https://creazl.github.io</link><description>我是Creazl,分享好玩科技</description><copyright>Creazl的个人博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/175819506?u=1c1a289236143c1c8c05536c02f86e8f0c5ad4a3&amp;v=4</url><title>avatar</title><link>https://creazl.github.io</link></image><lastBuildDate>Sat, 16 Nov 2024 14:59:55 +0000</lastBuildDate><managingEditor>Creazl的个人博客</managingEditor><ttl>60</ttl><webMaster>Creazl的个人博客</webMaster><item><title>V2rayN使用方法</title><link>https://creazl.github.io/post/V2rayN-shi-yong-fang-fa.html</link><description># 下载V2rayN [下载](https://github.com/2dust/v2rayN/releases)&#13;
+# 安装并打开安装运行环境&#13;
+![Image_30462279931430](https://github.com/user-attachments/assets/a50f4064-2e10-4a51-ae47-607c691d70b4)&#13;
+# 复制链接`vless://f894b9cf-1b1e-4e4b-a5bc-631b0d4a4cab@vless2.creazlen.top:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vless2.creazlen.top&amp;type=ws&amp;sni=vless2.creazlen.top#edgetunnel`&#13;
+或点击添加vless服务器依次输入&#13;
+# 点击从剪切板分享链接&#13;
+![Image_30464768638584](https://github.com/user-attachments/assets/61b617a2-9faa-4f17-b977-01c2c9ea7329)&#13;
+# 完成✅&#13;
+![Image_30468119663123](https://github.com/user-attachments/assets/ea45c46a-7e19-45b0-8b44-1c5e50b7c5a0)&#13;
+&#13;
+&#13;
+。</description><guid isPermaLink="true">https://creazl.github.io/post/V2rayN-shi-yong-fang-fa.html</guid><pubDate>Sat, 16 Nov 2024 14:59:33 +0000</pubDate></item><item><title>免费／低价搭建自己的网站</title><link>https://creazl.github.io/post/mian-fei-%EF%BC%8F-di-jia-da-jian-zi-ji-de-wang-zhan.html</link><description># 购买域名&#13;
 ## 1.免费域名：us.kg&#13;
 ### 用美国地址登录，可以参考技术爬爬蚜的视频。</description><guid isPermaLink="true">https://creazl.github.io/post/mian-fei-%EF%BC%8F-di-jia-da-jian-zi-ji-de-wang-zhan.html</guid><pubDate>Sun, 06 Oct 2024 08:50:50 +0000</pubDate></item><item><title>Free ChatGPT</title><link>https://creazl.github.io/post/Free%20ChatGPT.html</link><description># 免费好用的人工智能&#13;
 ## [网址（须登录）](https://www.chatopens.com/)。</description><guid isPermaLink="true">https://creazl.github.io/post/Free%20ChatGPT.html</guid><pubDate>Sun, 06 Oct 2024 07:40:35 +0000</pubDate></item></channel></rss>
